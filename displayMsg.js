@@ -44,4 +44,5 @@ The submitMessage() method should concatenate the current message (stored in inp
 to the messages array in local state, and clear the value of the input.
 
 Finally, use the ul to map over the array of messages and render it to the screen as a list of li elements.
+
 */
